@@ -1,0 +1,1 @@
+2025-05-02 07:14:47 - Failed to send email to kshitijaiwale@gmail.com: Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting

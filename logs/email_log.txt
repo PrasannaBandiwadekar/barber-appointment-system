@@ -1,0 +1,42 @@
+2025-05-01 16:23:44 - Attempting to send email to: ritsdavande@gmail.com
+2025-05-01 16:23:46 - Email to ritsdavande@gmail.com: FAILED - Mail function returned false. Check your server configuration. PHP Error: mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+2025-05-01 16:44:09 - Attempting to send email to: ritsdavande@gmail.com
+2025-05-01 16:44:13 - Email to ritsdavande@gmail.com: SUCCESS
+2025-05-01 16:44:57 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:45:01 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:47:17 - Attempting to send email to: desaisiddharth1008@gmail.com
+2025-05-01 16:47:21 - Email to desaisiddharth1008@gmail.com: SUCCESS
+2025-05-01 16:48:44 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:48:48 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:49:53 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:49:57 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:50:23 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:50:27 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:50:49 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 16:50:53 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 16:58:27 - Attempting to send email to: ganeshhipparkar30@gmail.com
+2025-05-01 16:58:31 - Email to ganeshhipparkar30@gmail.com: SUCCESS
+2025-05-01 17:04:31 - Attempting to send email to: parthbuchade1508@gmail.com
+2025-05-01 17:04:36 - Email to parthbuchade1508@gmail.com: SUCCESS
+2025-05-01 17:05:08 - Attempting to send email to: parthbuchade1508@gmail.com
+2025-05-01 17:05:12 - Email to parthbuchade1508@gmail.com: SUCCESS
+2025-05-01 17:12:07 - Attempting to send email to: prasannabandiwadekar35@gmail.com
+2025-05-01 17:12:11 - Email to prasannabandiwadekar35@gmail.com: SUCCESS
+2025-05-01 17:12:53 - Attempting to send email to: prasannabandiwadekar35@gmail.com
+2025-05-01 17:12:58 - Email to prasannabandiwadekar35@gmail.com: SUCCESS
+2025-05-01 17:40:12 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 17:40:18 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 17:41:24 - Attempting to send email to: riteshdavande123@gmail.com
+2025-05-01 17:41:28 - Email to riteshdavande123@gmail.com: SUCCESS
+2025-05-01 17:43:47 - Attempting to send email to: prathamesh.pd.2000@gmail.com
+2025-05-01 17:43:51 - Email to prathamesh.pd.2000@gmail.com: SUCCESS
+2025-05-02 07:10:35 - Attempting to send email to: prasannabandiwadekar35@gmail.com
+2025-05-02 07:10:41 - Email to prasannabandiwadekar35@gmail.com: SUCCESS
+2025-05-02 07:14:47 - Attempting to send email to: kshitijaiwale@gmail.com
+2025-05-02 07:14:47 - Email to kshitijaiwale@gmail.com: FAILED - Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+2025-05-02 08:34:56 - Attempting to send email to: ritsdavande@gmail.com
+2025-05-02 08:35:04 - Email to ritsdavande@gmail.com: SUCCESS
+2025-05-02 09:22:43 - Attempting to send email to: adityachatte1114@gmail.com
+2025-05-02 09:22:52 - Email to adityachatte1114@gmail.com: SUCCESS
+2025-05-02 09:44:54 - Attempting to send email to: adityachatte1114@gmail.com
+2025-05-02 09:45:01 - Email to adityachatte1114@gmail.com: SUCCESS
